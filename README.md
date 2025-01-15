@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="assets/banner.png">
+    <img width="100" src="dio_excel_ia/assets/banner.png">
 </p>
 
 ---------------
